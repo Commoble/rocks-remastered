@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:gneiss_cobblestone"
+  },
+  "result": "rocksremastered:gneiss_cobblestone_stairs",
+  "count": 1
+}

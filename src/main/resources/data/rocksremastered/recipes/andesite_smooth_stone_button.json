@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:andesite_smooth_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:andesite_smooth_stone_button"
+  }
+}

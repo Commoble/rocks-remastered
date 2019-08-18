@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "rocksremastered:block/shale_redstone_ore" },
+        "lit=true": { "model": "rocksremastered:block/shale_redstone_ore" }
+    }
+}

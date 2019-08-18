@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:basalt_mossy_stone_bricks"
+  },
+  "result": "rocksremastered:basalt_mossy_stone_bricks_stairs",
+  "count": 1
+}

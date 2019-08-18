@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/chert_mossy_stone_bricks_slab" },
+        "type=top": { "model": "rocksremastered:block/chert_mossy_stone_bricks_slab_top" },
+        "type=double": { "model": "rocksremastered:block/chert_mossy_stone_bricks" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:basalt_cracked_stone_bricks"
+  },
+  "result": "rocksremastered:basalt_cracked_stone_bricks_slab",
+  "count": 2
+}

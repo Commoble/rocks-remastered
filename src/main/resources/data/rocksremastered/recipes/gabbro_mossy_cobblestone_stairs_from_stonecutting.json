@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:gabbro_mossy_cobblestone"
+  },
+  "result": "rocksremastered:gabbro_mossy_cobblestone_stairs",
+  "count": 1
+}

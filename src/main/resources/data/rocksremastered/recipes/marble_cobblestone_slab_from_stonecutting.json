@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:marble_cobblestone"
+  },
+  "result": "rocksremastered:marble_cobblestone_slab",
+  "count": 2
+}

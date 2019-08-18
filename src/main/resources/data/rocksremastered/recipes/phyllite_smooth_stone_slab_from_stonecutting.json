@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:phyllite_smooth_stone"
+  },
+  "result": "rocksremastered:phyllite_smooth_stone_slab",
+  "count": 2
+}

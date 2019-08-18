@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:marble_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:marble_stone_button"
+  }
+}

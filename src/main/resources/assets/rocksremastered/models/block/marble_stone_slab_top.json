@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "rocksremastered:block/marble_stone",
+        "top": "rocksremastered:block/marble_stone",
+        "side": "rocksremastered:block/marble_stone"
+    }
+}

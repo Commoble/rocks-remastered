@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:phyllite_stone"
+  },
+  "result": "rocksremastered:phyllite_stone_stairs",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/phyllite_stone",
+        "top": "rocksremastered:block/phyllite_stone",
+        "side": "rocksremastered:block/phyllite_stone"
+    }
+}

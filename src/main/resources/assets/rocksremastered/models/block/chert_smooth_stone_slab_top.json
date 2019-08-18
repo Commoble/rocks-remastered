@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "rocksremastered:block/chert_smooth_stone",
+        "top": "rocksremastered:block/chert_smooth_stone",
+        "side": "rocksremastered:block/chert_smooth_stone_slab_side"
+    }
+}

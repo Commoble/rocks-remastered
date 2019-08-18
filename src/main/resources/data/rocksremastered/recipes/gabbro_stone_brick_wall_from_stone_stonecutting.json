@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:gabbro_stone"
+  },
+  "result": "rocksremastered:gabbro_stone_brick_wall",
+  "count": 1
+}

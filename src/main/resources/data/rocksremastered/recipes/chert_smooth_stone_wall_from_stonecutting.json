@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:chert_smooth_stone"
+  },
+  "result": "rocksremastered:chert_smooth_stone_wall",
+  "count": 1
+}

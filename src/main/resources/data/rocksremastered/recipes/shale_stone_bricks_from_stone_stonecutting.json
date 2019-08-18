@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:shale_stone"
+  },
+  "result": "rocksremastered:shale_stone_bricks",
+  "count": 1
+}

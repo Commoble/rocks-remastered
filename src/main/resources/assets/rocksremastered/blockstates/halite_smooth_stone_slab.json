@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/halite_smooth_stone_slab" },
+        "type=top": { "model": "rocksremastered:block/halite_smooth_stone_slab_top" },
+        "type=double": { "model": "rocksremastered:block/halite_smooth_stone_slab_double" }
+    }
+}

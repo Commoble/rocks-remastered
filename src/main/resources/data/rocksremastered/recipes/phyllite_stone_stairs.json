@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:phyllite_stone"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:phyllite_stone_stairs",
+    "count": 4
+  }
+}

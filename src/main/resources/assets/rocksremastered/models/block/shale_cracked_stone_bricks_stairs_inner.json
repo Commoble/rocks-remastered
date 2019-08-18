@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/shale_cracked_stone_bricks",
+        "top": "rocksremastered:block/shale_cracked_stone_bricks",
+        "side": "rocksremastered:block/shale_cracked_stone_bricks"
+    }
+}

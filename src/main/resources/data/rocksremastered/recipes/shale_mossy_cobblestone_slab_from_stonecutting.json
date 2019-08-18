@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:shale_mossy_cobblestone"
+  },
+  "result": "rocksremastered:shale_mossy_cobblestone_slab",
+  "count": 2
+}

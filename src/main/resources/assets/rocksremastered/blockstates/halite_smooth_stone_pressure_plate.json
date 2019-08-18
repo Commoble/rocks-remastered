@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "rocksremastered:block/halite_smooth_stone_pressure_plate" },
+        "powered=true": { "model": "rocksremastered:block/halite_smooth_stone_pressure_plate_down" }
+    }
+}

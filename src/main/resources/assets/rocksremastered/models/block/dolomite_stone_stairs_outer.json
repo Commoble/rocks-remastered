@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/dolomite_stone",
+        "top": "rocksremastered:block/dolomite_stone",
+        "side": "rocksremastered:block/dolomite_stone"
+    }
+}

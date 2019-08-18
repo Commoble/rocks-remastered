@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/diorite_cracked_stone_bricks_slab" },
+        "type=top": { "model": "rocksremastered:block/diorite_cracked_stone_bricks_slab_top" },
+        "type=double": { "model": "rocksremastered:block/diorite_cracked_stone_bricks" }
+    }
+}

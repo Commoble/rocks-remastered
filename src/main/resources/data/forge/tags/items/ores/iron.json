@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_iron_ore",
+    "rocksremastered:gabbro_iron_ore",
+    "rocksremastered:granite_iron_ore",
+    "rocksremastered:andesite_iron_ore",
+    "rocksremastered:basalt_iron_ore",
+    "rocksremastered:rhyolite_iron_ore",
+    "rocksremastered:gneiss_iron_ore",
+    "rocksremastered:marble_iron_ore",
+    "rocksremastered:phyllite_iron_ore",
+    "rocksremastered:schist_iron_ore",
+    "rocksremastered:slate_iron_ore",
+    "rocksremastered:chert_iron_ore",
+    "rocksremastered:dolomite_iron_ore",
+    "rocksremastered:halite_iron_ore",
+    "rocksremastered:limestone_iron_ore",
+    "rocksremastered:shale_iron_ore"
+  ]
+}

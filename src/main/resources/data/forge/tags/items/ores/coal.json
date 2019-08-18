@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_coal_ore",
+    "rocksremastered:gabbro_coal_ore",
+    "rocksremastered:granite_coal_ore",
+    "rocksremastered:andesite_coal_ore",
+    "rocksremastered:basalt_coal_ore",
+    "rocksremastered:rhyolite_coal_ore",
+    "rocksremastered:gneiss_coal_ore",
+    "rocksremastered:marble_coal_ore",
+    "rocksremastered:phyllite_coal_ore",
+    "rocksremastered:schist_coal_ore",
+    "rocksremastered:slate_coal_ore",
+    "rocksremastered:chert_coal_ore",
+    "rocksremastered:dolomite_coal_ore",
+    "rocksremastered:halite_coal_ore",
+    "rocksremastered:limestone_coal_ore",
+    "rocksremastered:shale_coal_ore"
+  ]
+}

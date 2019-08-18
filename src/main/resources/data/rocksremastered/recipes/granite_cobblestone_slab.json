@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:granite_cobblestone"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:granite_cobblestone_slab",
+    "count": 6
+  }
+}

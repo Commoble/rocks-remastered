@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_lapis_ore",
+    "rocksremastered:gabbro_lapis_ore",
+    "rocksremastered:granite_lapis_ore",
+    "rocksremastered:andesite_lapis_ore",
+    "rocksremastered:basalt_lapis_ore",
+    "rocksremastered:rhyolite_lapis_ore",
+    "rocksremastered:gneiss_lapis_ore",
+    "rocksremastered:marble_lapis_ore",
+    "rocksremastered:phyllite_lapis_ore",
+    "rocksremastered:schist_lapis_ore",
+    "rocksremastered:slate_lapis_ore",
+    "rocksremastered:chert_lapis_ore",
+    "rocksremastered:dolomite_lapis_ore",
+    "rocksremastered:halite_lapis_ore",
+    "rocksremastered:limestone_lapis_ore",
+    "rocksremastered:shale_lapis_ore"
+  ]
+}

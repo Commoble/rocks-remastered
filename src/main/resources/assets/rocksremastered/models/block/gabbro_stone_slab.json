@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "rocksremastered:block/gabbro_stone",
+        "top": "rocksremastered:block/gabbro_stone",
+        "side": "rocksremastered:block/gabbro_stone"
+    }
+}

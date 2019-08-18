@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:gabbro_cracked_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:gabbro_cracked_stone_bricks_pressure_plate"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rocksremastered:marble_stone_bricks"
+  },
+  "result": "rocksremastered:marble_cracked_stone_bricks",
+  "experience": 0.1,
+  "cookingtime": 200
+}

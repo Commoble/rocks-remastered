@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "rocksremastered:block/granite_redstone_ore" },
+        "lit=true": { "model": "rocksremastered:block/granite_redstone_ore" }
+    }
+}

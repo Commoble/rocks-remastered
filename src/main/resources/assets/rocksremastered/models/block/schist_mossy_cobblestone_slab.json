@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "rocksremastered:block/schist_mossy_cobblestone",
+        "top": "rocksremastered:block/schist_mossy_cobblestone",
+        "side": "rocksremastered:block/schist_mossy_cobblestone"
+    }
+}

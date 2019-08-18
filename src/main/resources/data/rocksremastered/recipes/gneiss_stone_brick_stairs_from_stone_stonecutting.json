@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:gneiss_stone"
+  },
+  "result": "rocksremastered:gneiss_stone_brick_stairs",
+  "count": 1
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:basalt_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:basalt_cobblestone_button"
+  }
+}

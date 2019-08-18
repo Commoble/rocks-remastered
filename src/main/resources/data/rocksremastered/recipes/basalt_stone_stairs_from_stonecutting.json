@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:basalt_stone"
+  },
+  "result": "rocksremastered:basalt_stone_stairs",
+  "count": 1
+}

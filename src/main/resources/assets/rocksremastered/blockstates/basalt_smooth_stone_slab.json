@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/basalt_smooth_stone_slab" },
+        "type=top": { "model": "rocksremastered:block/basalt_smooth_stone_slab_top" },
+        "type=double": { "model": "rocksremastered:block/basalt_smooth_stone_slab_double" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/button",
+    "textures": {
+        "texture": "rocksremastered:block/shale_smooth_stone"
+    }
+}

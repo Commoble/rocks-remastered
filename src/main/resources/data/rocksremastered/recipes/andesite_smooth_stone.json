@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rocksremastered:andesite_stone"
+  },
+  "result": "rocksremastered:andesite_smooth_stone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

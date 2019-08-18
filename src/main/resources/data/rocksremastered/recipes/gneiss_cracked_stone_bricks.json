@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rocksremastered:gneiss_stone_bricks"
+  },
+  "result": "rocksremastered:gneiss_cracked_stone_bricks",
+  "experience": 0.1,
+  "cookingtime": 200
+}

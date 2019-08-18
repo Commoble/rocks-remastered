@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:rhyolite_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:rhyolite_stone_button"
+  }
+}

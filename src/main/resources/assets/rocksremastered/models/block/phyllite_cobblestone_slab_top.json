@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "rocksremastered:block/phyllite_cobblestone",
+        "top": "rocksremastered:block/phyllite_cobblestone",
+        "side": "rocksremastered:block/phyllite_cobblestone"
+    }
+}

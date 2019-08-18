@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/dolomite_cobblestone",
+        "top": "rocksremastered:block/dolomite_cobblestone",
+        "side": "rocksremastered:block/dolomite_cobblestone"
+    }
+}

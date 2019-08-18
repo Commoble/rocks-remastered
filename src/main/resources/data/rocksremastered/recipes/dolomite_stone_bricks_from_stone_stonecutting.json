@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:dolomite_stone"
+  },
+  "result": "rocksremastered:dolomite_stone_bricks",
+  "count": 1
+}

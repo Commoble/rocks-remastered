@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/basalt_smooth_stone",
+        "top": "rocksremastered:block/basalt_smooth_stone",
+        "side": "rocksremastered:block/basalt_smooth_stone"
+    }
+}

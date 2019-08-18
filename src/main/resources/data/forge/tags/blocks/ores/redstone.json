@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_redstone_ore",
+    "rocksremastered:gabbro_redstone_ore",
+    "rocksremastered:granite_redstone_ore",
+    "rocksremastered:andesite_redstone_ore",
+    "rocksremastered:basalt_redstone_ore",
+    "rocksremastered:rhyolite_redstone_ore",
+    "rocksremastered:gneiss_redstone_ore",
+    "rocksremastered:marble_redstone_ore",
+    "rocksremastered:phyllite_redstone_ore",
+    "rocksremastered:schist_redstone_ore",
+    "rocksremastered:slate_redstone_ore",
+    "rocksremastered:chert_redstone_ore",
+    "rocksremastered:dolomite_redstone_ore",
+    "rocksremastered:halite_redstone_ore",
+    "rocksremastered:limestone_redstone_ore",
+    "rocksremastered:shale_redstone_ore"
+  ]
+}

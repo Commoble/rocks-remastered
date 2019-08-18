@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:phyllite_stone_bricks"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:phyllite_stone_bricks_button"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_stone",
+    "rocksremastered:gabbro_stone",
+    "rocksremastered:granite_stone",
+    "rocksremastered:andesite_stone",
+    "rocksremastered:basalt_stone",
+    "rocksremastered:rhyolite_stone",
+    "rocksremastered:gneiss_stone",
+    "rocksremastered:marble_stone",
+    "rocksremastered:phyllite_stone",
+    "rocksremastered:schist_stone",
+    "rocksremastered:slate_stone",
+    "rocksremastered:chert_stone",
+    "rocksremastered:dolomite_stone",
+    "rocksremastered:halite_stone",
+    "rocksremastered:limestone_stone",
+    "rocksremastered:shale_stone"
+  ]
+}

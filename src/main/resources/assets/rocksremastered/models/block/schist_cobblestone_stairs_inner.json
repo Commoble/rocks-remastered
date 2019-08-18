@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/schist_cobblestone",
+        "top": "rocksremastered:block/schist_cobblestone",
+        "side": "rocksremastered:block/schist_cobblestone"
+    }
+}

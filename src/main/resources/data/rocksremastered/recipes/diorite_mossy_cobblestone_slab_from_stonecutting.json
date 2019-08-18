@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:diorite_mossy_cobblestone"
+  },
+  "result": "rocksremastered:diorite_mossy_cobblestone_slab",
+  "count": 2
+}

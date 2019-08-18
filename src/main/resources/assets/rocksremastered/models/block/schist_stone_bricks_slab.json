@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "rocksremastered:block/schist_stone_bricks",
+        "top": "rocksremastered:block/schist_stone_bricks",
+        "side": "rocksremastered:block/schist_stone_bricks"
+    }
+}

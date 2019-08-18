@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:gneiss_mossy_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:gneiss_mossy_cobblestone_button"
+  }
+}

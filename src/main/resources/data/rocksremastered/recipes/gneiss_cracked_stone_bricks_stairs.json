@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:gneiss_cracked_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:gneiss_cracked_stone_bricks_stairs",
+    "count": 4
+  }
+}

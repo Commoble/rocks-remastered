@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:marble_stone"
+  },
+  "result": "rocksremastered:marble_stone_bricks",
+  "count": 1
+}

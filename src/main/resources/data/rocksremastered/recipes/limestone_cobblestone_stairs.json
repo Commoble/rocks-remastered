@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:limestone_cobblestone"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:limestone_cobblestone_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "rocksremastered:block/gabbro_mossy_stone_bricks_pressure_plate" },
+        "powered=true": { "model": "rocksremastered:block/gabbro_mossy_stone_bricks_pressure_plate_down" }
+    }
+}

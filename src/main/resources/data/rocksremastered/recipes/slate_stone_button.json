@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:slate_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:slate_stone_button"
+  }
+}

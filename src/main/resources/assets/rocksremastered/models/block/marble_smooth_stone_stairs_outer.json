@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/marble_smooth_stone",
+        "top": "rocksremastered:block/marble_smooth_stone",
+        "side": "rocksremastered:block/marble_smooth_stone"
+    }
+}

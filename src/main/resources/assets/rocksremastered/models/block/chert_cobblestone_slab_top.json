@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "rocksremastered:block/chert_cobblestone",
+        "top": "rocksremastered:block/chert_cobblestone",
+        "side": "rocksremastered:block/chert_cobblestone"
+    }
+}

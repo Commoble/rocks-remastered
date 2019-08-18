@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:chert_stone"
+  },
+  "result": "rocksremastered:chert_stone_bricks",
+  "count": 1
+}

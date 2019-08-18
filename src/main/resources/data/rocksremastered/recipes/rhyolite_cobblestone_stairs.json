@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:rhyolite_cobblestone"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:rhyolite_cobblestone_stairs",
+    "count": 4
+  }
+}

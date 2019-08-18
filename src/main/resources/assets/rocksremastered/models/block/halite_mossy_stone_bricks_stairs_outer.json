@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/halite_mossy_stone_bricks",
+        "top": "rocksremastered:block/halite_mossy_stone_bricks",
+        "side": "rocksremastered:block/halite_mossy_stone_bricks"
+    }
+}

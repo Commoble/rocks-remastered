@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "rocksremastered:block/dolomite_smooth_stone",
+        "side": "rocksremastered:block/dolomite_smooth_stone_slab_side"
+    }
+}

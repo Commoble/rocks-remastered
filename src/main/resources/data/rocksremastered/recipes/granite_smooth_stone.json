@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rocksremastered:granite_stone"
+  },
+  "result": "rocksremastered:granite_smooth_stone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

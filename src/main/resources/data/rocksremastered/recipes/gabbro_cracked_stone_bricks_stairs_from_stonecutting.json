@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:gabbro_cracked_stone_bricks"
+  },
+  "result": "rocksremastered:gabbro_cracked_stone_bricks_stairs",
+  "count": 1
+}

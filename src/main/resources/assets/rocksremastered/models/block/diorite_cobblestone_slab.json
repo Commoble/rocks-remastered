@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "rocksremastered:block/diorite_cobblestone",
+        "top": "rocksremastered:block/diorite_cobblestone",
+        "side": "rocksremastered:block/diorite_cobblestone"
+    }
+}

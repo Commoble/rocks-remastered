@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:halite_cobblestone"
+  },
+  "result": "rocksremastered:halite_cobblestone_stairs",
+  "count": 1
+}

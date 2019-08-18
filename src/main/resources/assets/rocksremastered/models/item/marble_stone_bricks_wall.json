@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "rocksremastered:block/marble_stone_bricks"
+    }
+}

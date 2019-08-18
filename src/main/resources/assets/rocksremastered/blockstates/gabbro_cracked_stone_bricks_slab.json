@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/gabbro_cracked_stone_bricks_slab" },
+        "type=top": { "model": "rocksremastered:block/gabbro_cracked_stone_bricks_slab_top" },
+        "type=double": { "model": "rocksremastered:block/gabbro_cracked_stone_bricks" }
+    }
+}

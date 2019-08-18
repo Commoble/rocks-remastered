@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "rocksremastered:block/andesite_cobblestone",
+        "top": "rocksremastered:block/andesite_cobblestone",
+        "side": "rocksremastered:block/andesite_cobblestone"
+    }
+}

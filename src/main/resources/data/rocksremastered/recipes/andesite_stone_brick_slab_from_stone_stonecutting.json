@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:andesite_stone"
+  },
+  "result": "rocksremastered:andesite_stone_brick_slab",
+  "count": 2
+}

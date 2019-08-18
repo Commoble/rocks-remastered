@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "rocksremastered:diorite_gold_ore",
+    "rocksremastered:gabbro_gold_ore",
+    "rocksremastered:granite_gold_ore",
+    "rocksremastered:andesite_gold_ore",
+    "rocksremastered:basalt_gold_ore",
+    "rocksremastered:rhyolite_gold_ore",
+    "rocksremastered:gneiss_gold_ore",
+    "rocksremastered:marble_gold_ore",
+    "rocksremastered:phyllite_gold_ore",
+    "rocksremastered:schist_gold_ore",
+    "rocksremastered:slate_gold_ore",
+    "rocksremastered:chert_gold_ore",
+    "rocksremastered:dolomite_gold_ore",
+    "rocksremastered:halite_gold_ore",
+    "rocksremastered:limestone_gold_ore",
+    "rocksremastered:shale_gold_ore"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "rocksremastered:block/limestone_stone_slab" },
+        "type=top": { "model": "rocksremastered:block/limestone_stone_slab_top" },
+        "type=double": { "model": "rocksremastered:block/limestone_stone" }
+    }
+}

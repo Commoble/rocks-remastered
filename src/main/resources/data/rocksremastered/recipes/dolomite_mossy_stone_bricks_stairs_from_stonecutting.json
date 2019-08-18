@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:dolomite_mossy_stone_bricks"
+  },
+  "result": "rocksremastered:dolomite_mossy_stone_bricks_stairs",
+  "count": 1
+}

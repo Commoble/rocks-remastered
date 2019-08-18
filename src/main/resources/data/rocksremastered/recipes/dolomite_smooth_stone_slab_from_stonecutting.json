@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:dolomite_smooth_stone"
+  },
+  "result": "rocksremastered:dolomite_smooth_stone_slab",
+  "count": 2
+}

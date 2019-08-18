@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rocksremastered:basalt_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "rocksremastered:basalt_stone_bricks_pressure_plate"
+  }
+}

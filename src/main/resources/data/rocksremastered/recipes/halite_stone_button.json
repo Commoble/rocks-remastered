@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:halite_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:halite_stone_button"
+  }
+}

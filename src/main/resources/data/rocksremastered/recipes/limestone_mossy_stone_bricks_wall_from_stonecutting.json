@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:limestone_mossy_stone_bricks"
+  },
+  "result": "rocksremastered:limestone_mossy_stone_bricks_wall",
+  "count": 1
+}

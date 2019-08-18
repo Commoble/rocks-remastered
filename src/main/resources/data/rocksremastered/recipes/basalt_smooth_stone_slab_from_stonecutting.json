@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:basalt_smooth_stone"
+  },
+  "result": "rocksremastered:basalt_smooth_stone_slab",
+  "count": 2
+}

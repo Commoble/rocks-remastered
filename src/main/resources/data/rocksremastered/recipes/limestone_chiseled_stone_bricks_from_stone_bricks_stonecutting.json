@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:limestone_stone_bricks"
+  },
+  "result": "rocksremastered:limestone_chiseled_stone_bricks",
+  "count": 1
+}

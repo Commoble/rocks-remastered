@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:basalt_cobblestone"
+  },
+  "result": "rocksremastered:basalt_cobblestone_slab",
+  "count": 2
+}

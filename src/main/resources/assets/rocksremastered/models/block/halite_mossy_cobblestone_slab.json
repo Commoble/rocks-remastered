@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "rocksremastered:block/halite_mossy_cobblestone",
+        "top": "rocksremastered:block/halite_mossy_cobblestone",
+        "side": "rocksremastered:block/halite_mossy_cobblestone"
+    }
+}

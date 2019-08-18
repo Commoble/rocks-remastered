@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:andesite_cobblestone"
+  },
+  "result": "rocksremastered:andesite_cobblestone_stairs",
+  "count": 1
+}

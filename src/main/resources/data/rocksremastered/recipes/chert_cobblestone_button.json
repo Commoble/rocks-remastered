@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:chert_cobblestone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:chert_cobblestone_button"
+  }
+}

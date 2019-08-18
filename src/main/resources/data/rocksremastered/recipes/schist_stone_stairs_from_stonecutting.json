@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:schist_stone"
+  },
+  "result": "rocksremastered:schist_stone_stairs",
+  "count": 1
+}

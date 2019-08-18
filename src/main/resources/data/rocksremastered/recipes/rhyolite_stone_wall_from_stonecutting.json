@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "rocksremastered:rhyolite_stone"
+  },
+  "result": "rocksremastered:rhyolite_stone_wall",
+  "count": 1
+}

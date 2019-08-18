@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "rocksremastered:block/marble_cobblestone",
+        "top": "rocksremastered:block/marble_cobblestone",
+        "side": "rocksremastered:block/marble_cobblestone"
+    }
+}

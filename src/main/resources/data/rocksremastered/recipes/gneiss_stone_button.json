@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rocksremastered:gneiss_stone"
+    }
+  ],
+  "result": {
+    "item": "rocksremastered:gneiss_stone_button"
+  }
+}
