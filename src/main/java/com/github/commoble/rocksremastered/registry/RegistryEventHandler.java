@@ -4,6 +4,7 @@ import com.github.commoble.rocksremastered.RocksRemastered;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
+import net.minecraft.world.gen.feature.Feature;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
@@ -22,5 +23,11 @@ public class RegistryEventHandler
 	public static void onItemRegistryEvent(RegistryEvent.Register<Item> event)
 	{
 		ItemRegistrar.registerItems(event.getRegistry());
+	}
+	
+	@SubscribeEvent
+	public static void onFeatureRegistryEvent(RegistryEvent.Register<Feature<?>> event)
+	{
+		FeatureRegistrar.registerFeatures(event.getRegistry());
 	}
 }

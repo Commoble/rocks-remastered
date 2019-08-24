@@ -9,6 +9,7 @@ import com.github.commoble.rocksremastered.blocks.RemasteredOreBlock;
 import com.github.commoble.rocksremastered.blocks.RemasteredStairsBlock;
 import com.github.commoble.rocksremastered.blocks.RemasteredStoneButtonBlock;
 import com.github.commoble.rocksremastered.blocks.RemasteredStonePressurePlateBlock;
+import com.github.commoble.rocksremastered.rocks.RockTables;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.RedstoneOreBlock;
@@ -24,6 +25,8 @@ public class BlockRegistrar
 	// remember registry keys used to make it simpler to register blockitems
 	protected static List<String> registry_keys = new ArrayList<String>(800);
 	
+	
+	
 	public static void registerBlocks(IForgeRegistry<Block> registry)
 	{
 		RegistryHelper<Block> reg = new RegistryHelper<Block>(registry)
@@ -37,8 +40,10 @@ public class BlockRegistrar
 				return entry;
 			}
 				};
+				
+		RockTables.beforeBlockRegistryInit(); // registry events happen before FML setup lifecycle events, this is where we need to do this
 		
-		for (String rockname : DataTables.ROCK_TYPES)
+		RockTables.ROCK_TYPES.stream().map(rock -> rock.name).forEach(rockname ->
 		{
 			for (String blockname : DataTables.IMPROVABLE_BLOCK_TYPES)
 			{
@@ -60,7 +65,9 @@ public class BlockRegistrar
 			reg.register(rockname+"_emerald_ore", new RemasteredOreBlock(3,7, getOreProps().harvestLevel(2)));
 			
 			reg.register(rockname+"_redstone_ore", new RedstoneOreBlock(Block.Properties.create(Material.ROCK).tickRandomly().lightValue(9).hardnessAndResistance(3.0F, 3.0F).harvestLevel(2).harvestTool(ToolType.PICKAXE)));
-		}
+		});
+
+		RockTables.afterBlockRegistryInit(); // after we have registered all of our blocks
 	}
 	
 	private static Block.Properties getOreProps()

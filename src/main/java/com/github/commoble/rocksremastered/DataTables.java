@@ -8,33 +8,6 @@ import net.minecraft.block.material.MaterialColor;
 
 public class DataTables
 {
-	public static final String[] ROCK_TYPES =
-		{
-				// plutonic rock
-				"diorite",
-				"gabbro",
-				"granite",
-				
-				// volcanic rock
-				"andesite",
-				"basalt",
-				"rhyolite",
-				
-				// metamorphic rock
-				"gneiss",
-				"marble",
-				"phyllite",
-				"schist",
-				"slate",
-				
-				// sedimentary rock
-				"chert",
-				"dolomite",
-				"halite",
-				"limestone",
-				"shale"
-		};
-	
 	// blocks that can be made into slabs, stairs, walls, buttons, or pressure plates
 	public static final String[] IMPROVABLE_BLOCK_TYPES =
 		{
@@ -62,6 +35,9 @@ public class DataTables
 				"emerald"
 		};
 	
+	public static void preInit()
+	{
+	}
 
 	
 	private static final Block.Properties STONE_PROPERTIES = Block.Properties.create(Material.ROCK, MaterialColor.STONE).hardnessAndResistance(1.5F, 6.0F);

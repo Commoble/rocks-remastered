@@ -1,0 +1,33 @@
+{
+	"plutonic":
+	[
+		"diorite",
+		"gabbro",
+		"granite"
+	],
+	
+	"volcanic":
+	[
+		"andesite",
+		"basalt",
+		"rhyolite"
+	],
+	
+	"metamorphic":
+	[
+		"gneiss",
+		"marble",
+		"phyllite",
+		"schist",
+		"slate"
+	],
+	
+	"sedimentary":
+	[
+		"chert",
+		"dolomite",
+		"halite",
+		"limestone",
+		"shale"
+	]
+}
